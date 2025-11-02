@@ -1,6 +1,10 @@
+import CardGrid from "./components/cardgrid/CardGrid";
+import Growth from "./components/growth/Growth";
+import IndustryTools from "./components/IndustryTools";
 import HeroSection from "./components/initial/HeroSection";
 import IntegrationFlow from "./components/initial/IntegrationFlow";
 import Navbar from "./components/initial/Navbar";
+import Innovation from "./components/innovation/Innovation";
 import Trigger from "./components/triggerAct/trigger";
 import WorkFlowLeft from "./components/workflows/WorkFlowLeft";
 import Workflows from "./components/workflows/Workflows";
@@ -18,6 +22,10 @@ function App() {
           <Workflows />
           <WorkFlowLeft />
           <Trigger />
+          <Growth />
+          <CardGrid />
+          <Innovation />
+          <IndustryTools />
         </div>
       </div>
     </>
