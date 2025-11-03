@@ -15,17 +15,17 @@ const Trigger = () => {
         <FlowCard
           title="Choose your trigger"
           description="Select the event that starts your workflow: email, form, or call."
-          image="/public/ai-image-generator_707898-82.jpg"
+          image="/ai-image-generator_707898-82.jpg"
         />
         <FlowCard
           title="Build the workflow"
           description="Drag-and-drop steps, set conditions, and let AI plan the path."
-          image="/public/ai-image-generator_707898-82.jpg"
+          image="/ai-image-generator_707898-82.jpg"
         />
         <FlowCard
           title="Let AI handle the rest"
           description="Tasks executed automatically, data updated, and notifications sent."
-          image="/public/ai-image-generator_707898-82.jpg"
+          image="/ai-image-generator_707898-82.jpg"
         />
       </div>
     </section>

@@ -34,7 +34,7 @@ const Innovation = () => {
           <div className="flex-1 w-full md:w-auto flex justify-center items-center">
             {/* <InnovaionsRight/> */}
             <img
-              src="/public/Screenshot (24).png"
+              src="/Screenshot (24).png"
               alt="AI Innovation Stats"
               className="w-full h-full max-w-md rounded-3xl shadow-md border border-gray-100 object-cover"
             />

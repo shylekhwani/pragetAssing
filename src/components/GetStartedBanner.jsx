@@ -21,7 +21,7 @@ const GetStartedBanner = () => {
           {/* gemini */}
           <div className="absolute bottom-6 left-6 w-8 h-8 ">
             <img
-              src="/public/icons8-gemini-ai-50.png"
+              src="/icons8-gemini-ai-50.png"
               alt="decorative star"
               className="w-full h-full object-contain text-amber-50"
             />
@@ -29,7 +29,7 @@ const GetStartedBanner = () => {
 
           <div className="absolute top-6 right-6 w-8 h-8 ">
             <img
-              src="/public/icons8-gemini-ai-50.png"
+              src="/icons8-gemini-ai-50.png"
               alt="decorative star"
               className="w-full h-full object-contain  text-amber-50"
             />

@@ -9,7 +9,7 @@ export default function Footer() {
       {/* world map background */}
       <div className="absolute inset-0 -z-20">
         <img
-          src="/public/dotted-world-map-black-background-vector-illustration_541075-470.jpg"
+          src="/dotted-world-map-black-background-vector-illustration_541075-470.jpg"
           alt="World Map"
           className="w-full h-full object-cover"
         />

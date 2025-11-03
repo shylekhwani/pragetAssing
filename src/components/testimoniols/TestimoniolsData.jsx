@@ -1,16 +1,16 @@
 export const profiles = [
   {
-    img: "/public/openais-former-cto-mira-muratis-startup-thinking-machines-raises-2-billion-led-by-a16z.avif",
+    img: "/openais-former-cto-mira-muratis-startup-thinking-machines-raises-2-billion-led-by-a16z.avif",
     name: "Priyanka Sharma",
     role: "CTO, ShopNow",
   },
   {
-    img: "/public/1755454675-0344.webp",
+    img: "/1755454675-0344.webp",
     name: "Alex Sharma",
     role: "CTO, ShopNow",
   },
   {
-    img: "/public/5dc0bba77eece54dfe4ff7e2.webp",
+    img: "/5dc0bba77eece54dfe4ff7e2.webp",
     name: "Michale Sharma",
     role: "CTO, ShopNow",
   },
@@ -22,14 +22,14 @@ export const quotes = [
       "PragetX.ai made our processes faster and smarter. Their AI solutions helped us cut down manual work by more than half. A truly reliable partner for business growth.",
     name: "Clay Johnson",
     role: "CTO, ShopNow",
-    avatar: "/public/5dc0bba77eece54dfe4ff7e2.webp",
+    avatar: "/5dc0bba77eece54dfe4ff7e2.webp",
   },
   {
     quote:
       "PragetX.ai made our processes faster and smarter. Their AI solutions helped us cut down manual work by more than half. A truly reliable partner for business growth.",
     name: "Alex",
     role: "CTO, ShopNow",
-    avatar: "/public/1755454675-0344.webp",
+    avatar: "/1755454675-0344.webp",
   },
   {
     quote:
@@ -37,6 +37,6 @@ export const quotes = [
     name: "Priyanka Sharma",
     role: "CTO, ShopNow",
     avatar:
-      "/public/openais-former-cto-mira-muratis-startup-thinking-machines-raises-2-billion-led-by-a16z.avif",
+      "/openais-former-cto-mira-muratis-startup-thinking-machines-raises-2-billion-led-by-a16z.avif",
   },
 ];

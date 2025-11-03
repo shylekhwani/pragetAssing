@@ -47,7 +47,7 @@ export default function IndustryTools() {
 
           <div className="relative w-full max-w-3xl rounded-3xl overflow-hidden shadow-lg">
             <img
-              src="/public/humanoid-robot-programming-code.jpg"
+              src="/humanoid-robot-programming-code.jpg"
               alt="AI Industry Visual"
               className="w-full h-[380px] object-cover"
             />
@@ -99,7 +99,7 @@ export default function IndustryTools() {
 
           <div className="relative w-full max-w-7xl rounded-3xl overflow-hidden shadow-md">
             <img
-              src="/public/PragetX Website Version Light (1).png"
+              src="/PragetX Website Version Light (1).png"
               alt="Tools and Software"
               className="w-full h-80 object-cover"
             />
