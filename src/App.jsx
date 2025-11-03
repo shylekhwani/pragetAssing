@@ -5,6 +5,8 @@ import HeroSection from "./components/initial/HeroSection";
 import IntegrationFlow from "./components/initial/IntegrationFlow";
 import Navbar from "./components/initial/Navbar";
 import Innovation from "./components/innovation/Innovation";
+import Success from "./components/success/Success";
+import Testimoniols from "./components/testimoniols/Testimoniols";
 import Trigger from "./components/triggerAct/trigger";
 import WorkFlowLeft from "./components/workflows/WorkFlowLeft";
 import Workflows from "./components/workflows/Workflows";
@@ -26,6 +28,8 @@ function App() {
           <CardGrid />
           <Innovation />
           <IndustryTools />
+          <Success />
+          <Testimoniols />
         </div>
       </div>
     </>
