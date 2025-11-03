@@ -1,4 +1,6 @@
 import CardGrid from "./components/cardgrid/CardGrid";
+import Footer from "./components/footer/Footer";
+import GetStartedBanner from "./components/GetStartedBanner";
 import Growth from "./components/growth/Growth";
 import IndustryTools from "./components/IndustryTools";
 import HeroSection from "./components/initial/HeroSection";
@@ -30,6 +32,8 @@ function App() {
           <IndustryTools />
           <Success />
           <Testimoniols />
+          <GetStartedBanner />
+          <Footer />
         </div>
       </div>
     </>
