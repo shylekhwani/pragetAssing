@@ -9,7 +9,7 @@ import Navbar from "./components/initial/Navbar";
 import Innovation from "./components/innovation/Innovation";
 import Success from "./components/success/Success";
 import Testimoniols from "./components/testimoniols/Testimoniols";
-import Trigger from "./components/triggerAct/trigger";
+import Trigger from "./components/triggerAct/Trigger";
 import WorkFlowLeft from "./components/workflows/WorkFlowLeft";
 import Workflows from "./components/workflows/Workflows";
 
