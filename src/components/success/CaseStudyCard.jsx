@@ -71,7 +71,7 @@ const CaseStudyCard = ({
         </div>
 
         {/* nav arrows */}
-        <div className="flex items-center justify-start gap-6 mt-6 -ml-10">
+        <div className="flex items-center justify-start gap-6 mt-6 px-20 sm:px-10 lg:px-0 lg:-ml-20">
           <button className="w-12 h-12 rounded-full bg-white border border-gray-200 shadow-sm flex items-center justify-center hover:bg-gray-50 transition">
             <svg
               width="18"

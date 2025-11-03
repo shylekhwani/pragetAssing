@@ -1,9 +1,9 @@
 const Card = ({ title, subtitle, image }) => {
   return (
     <article className="bg-white rounded-2xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow duration-300 overflow-hidden flex flex-col h-full">
-      <div className="p-6 pb-4 mr-50">
+      <div className="p-6 pb-4">
         <h3
-          className="text-base md:text-lg font-semibold mb-1 mr-28"
+          className="text-base md:text-lg font-semibold mb-1"
           style={{ color: "#6B21A8" }}
         >
           {title}
